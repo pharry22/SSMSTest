@@ -1,2 +1,2 @@
 # SSMSTest
-Management Studio Source Code Control Test Project
+Management Studio Source Code Control Test Project2
